@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "nanohtml": "^1.9.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
